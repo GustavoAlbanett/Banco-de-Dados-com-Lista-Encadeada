@@ -1,0 +1,1 @@
+# Sistema de gerenciamento de banco de dados relacional desenvolvido em Java como parte da Atividade Integradora da disciplina de Algoritmos II. O projeto implementa estruturas de dados clássicas do zero, sem o uso de bibliotecas de persistência prontas ou SGBDs externos.
